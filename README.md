@@ -2,8 +2,8 @@
 - 👀 I’m interested in frontend and specialy backend
 - 🌱 I’m currently learning Frontend technologies
 - 💞️ I’m looking to collaborate on people c:
-- 📫 How to reach me at linkedin: "agustin di giacinto"
-- I´m too young, I didn´t ever work in tech industry and my english isn´t too good c:
+- 📫 How to reach me at linkedin: "Agustin Di giacinto"
+- I´m young, 18, I didn´t ever work in tech industry and my english isn´t too good c:
 - I truerly want to make solutions in differents lenguajes and specialize in backend, but now, I´m learning all I can.
 
 <!---
