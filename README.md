@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgustinDi
 - 👀 I’m interested and learning web development
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me at linkedin: <a href='https://github.com/AgustinDi'>"Agustin Di giacinto"</a>
+- 📫 How to reach me at linkedin: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
 
 <!---
 AgustinDi/AgustinDi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
