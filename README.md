@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @AgustinDi
-- 👀 I’m interested and learning web development
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me at linkedin: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
+Hola! me llamo Agustin Di giacinto y me encanta programar, soy un Henry!, egresado del bootcamp con el mismo nombre.
 
-<!---
-AgustinDi/AgustinDi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Con un proyecto grupal, creado entre 8 personas sobre una sede de adopcion y cuidado de perritos.
+
+Imagenes del proyecto...
+
+Y un proyecto individual sobre pokemons, que consume la respectiva api pokemons.
+
+Imagenes del proyecto
+
+Y por ultimo esta calculadora que hice antes de entrar a henry con mis conocimientos basicos de CSS, HTML y JS
+
+Imagenes del proyecto
+
+Las tecnologias que manejo actualmente son:
+
+* postgresql node.js express react.js Redux | HTML - CSS - JS (hacer con imagenes)
+
+Me encantaria aprender nuevos frameworks como:
+
+Next.js - 
+
+y claramente, MongoDB, que estoy estudiandolo actualmente.
+
+Aparezco en linkedin como: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
