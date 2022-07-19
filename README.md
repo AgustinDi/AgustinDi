@@ -1,4 +1,4 @@
-Hola! me llamo Agustin Di giacinto y me encanta programar, soy un Henry!, egresado del bootcamp con el mismo nombre.
+Hola! me llamo Agustin Di giacinto y me encanta programar, ya soy un Henry!, egresado del bootcamp con el mismo nombre.
 
 Con un proyecto grupal, creado entre 8 personas sobre una sede de adopcion y cuidado de perritos.
 
