@@ -20,6 +20,8 @@ Me encantaria aprender nuevos frameworks como:
 
 Next.js - 
 
-y claramente, MongoDB, que estoy estudiandolo actualmente.
+y claramente, MongoDB, que estoy por empezar a estudiar.
 
 Aparezco en linkedin como: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
+y mi Gmail es: agustindigiacinto18@gmail.com
+Por si quiere contactarse conmigo!
