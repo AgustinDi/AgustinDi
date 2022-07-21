@@ -22,6 +22,4 @@ Next.js -
 
 y claramente, MongoDB, que estoy por empezar a estudiar.
 
-Aparezco en linkedin como: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
-y mi Gmail es: agustindigiacinto18@gmail.com
-Por si quiere contactarse conmigo!
+Aparezco en linkedin como: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>, mi Gmail es: agustindigiacinto18@gmail.com y mi numero de telefono: 3547-98556 Por si quiere conectarse conmigo!
