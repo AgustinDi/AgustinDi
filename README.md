@@ -14,7 +14,7 @@ Imagenes del proyecto
 
 Las tecnologias que manejo actualmente son:
 
-* postgresql node.js express react.js Redux | HTML - CSS - JS (hacer con imagenes)![image](https://user-images.githubusercontent.com/88413954/181563106-8723d0bb-4ed4-4477-aff8-c8ac4779ab52.png)
+* postgresql node.js express react.js Redux | HTML - CSS - JS (hacer con imagenes)!<img src="https://user-images.githubusercontent.com/88413954/181563106-8723d0bb-4ed4-4477-aff8-c8ac4779ab52.png"></img>
 
 
 Me encantaria aprender nuevos frameworks como:
