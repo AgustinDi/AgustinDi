@@ -14,7 +14,8 @@ Imagenes del proyecto
 
 Las tecnologias que manejo actualmente son:
 
-* postgresql node.js express react.js Redux | HTML - CSS - JS (hacer con imagenes)
+* postgresql node.js express react.js Redux | HTML - CSS - JS (hacer con imagenes)![image](https://user-images.githubusercontent.com/88413954/181563106-8723d0bb-4ed4-4477-aff8-c8ac4779ab52.png)
+
 
 Me encantaria aprender nuevos frameworks como:
 
@@ -22,4 +23,7 @@ Next.js -
 
 y claramente, MongoDB, que estoy por empezar a estudiar.
 
-Aparezco en linkedin como: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>, mi Gmail es: agustindigiacinto18@gmail.com y mi numero de telefono: 3547-98556 Por si quiere conectarse conmigo!
+linkedin: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
+email: agustindigiacinto18@gmail.com
+telefono: +54 3547-98556  
+ 
