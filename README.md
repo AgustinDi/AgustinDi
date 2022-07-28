@@ -21,7 +21,7 @@ Las tecnologias que manejo actualmente son:
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/88413954/181580067-5c492b0d-a77e-4136-93e4-cbff1551fe64.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/88413954/181580133-907ccb9a-b27c-407b-8e06-a3c736547d7f.png" width="50px"></img>
-<img src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png" width="50px"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" width="50px"></img>
 
 
 
