@@ -24,11 +24,13 @@ Mis proyectos:
 
 Proyecto grupal de Henry, creado entre 8 personas sobre una sede de adopcion y cuidado de perritos.
 
-Imagenes del proyecto...
+<img src="https://res.cloudinary.com/agustindi/image/upload/v1660848605/Portfolio/Captura_de_pantalla_2022-08-18_154427_dk9eeu.png" height="300px"></img>
+<img src="https://res.cloudinary.com/agustindi/image/upload/v1660848605/Portfolio/Captura_de_pantalla_2022-08-18_154916_jrjni5.png" height="300px"></img>
 
 Proyecto individual de Henry sobre pokemons, que consume la respectiva api pokemons.
 
-Imagenes del proyecto
+<img src="https://res.cloudinary.com/agustindi/image/upload/v1660847222/Portfolio/Captura_de_pantalla_2022-08-18_152514_oyxf8f.png" height="300px"></img>
+<img src="https://res.cloudinary.com/agustindi/image/upload/v1660847218/Portfolio/Captura_de_pantalla_2022-08-18_152621_oodqol.png" height="300px"></img>
 
 Y por ultimo esta calculadora que hice antes de entrar a henry con mis conocimientos basicos de CSS, HTML y JS.
 
