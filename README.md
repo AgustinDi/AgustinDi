@@ -32,7 +32,7 @@ Imagenes del proyecto
 
 Y por ultimo esta calculadora que hice antes de entrar a henry con mis conocimientos basicos de CSS, HTML y JS.
 
-Imagenes del proyecto
+<img src="https://res.cloudinary.com/agustindi/image/upload/v1660847072/Portfolio/Calculadora_1_azl3as.png" height="100px"></img>
 
 linkedin: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
 email: agustindigiacinto18@gmail.com
