@@ -16,9 +16,10 @@ Las tecnologias que manejo actualmente son:
 
 Me encantaria aprender nuevos frameworks como:
 
-Next.js - <img src="https://docs.microsoft.com/en-us/windows/images/nextjs-logo.png" width="50px"></img>
+Next.js
+<img src="https://docs.microsoft.com/en-us/windows/images/nextjs-logo.png" width="50px"></img>
 
-y claramente, MongoDB, que estoy por empezar a estudiar.
+y claramente, MongoDB, que estoy estudiando.
 
 Mis proyectos:
 
