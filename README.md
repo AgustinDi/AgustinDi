@@ -13,7 +13,7 @@ Las tecnologias que manejo actualmente son:
 <img src="https://user-images.githubusercontent.com/88413954/181580067-5c492b0d-a77e-4136-93e4-cbff1551fe64.png" width="60px"></img>
 <img src="https://user-images.githubusercontent.com/88413954/181580133-907ccb9a-b27c-407b-8e06-a3c736547d7f.png" width="60px"></img>
 <img src="https://user-images.githubusercontent.com/88413954/181563106-8723d0bb-4ed4-4477-aff8-c8ac4779ab52.png" width="60px"></img>
-<img src="https://user-images.githubusercontent.com/88413954/181563106-8723d0bb-4ed4-4477-aff8-c8ac4779ab52.png" width="60px"></img>
+<img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-0nli97e5.png" width="60px"></img>
 
 linkedin: <a href='https://www.linkedin.com/in/agustin-digiacinto/'>"Agustin Di giacinto"</a>
 email: agustindigiacinto18@gmail.com
