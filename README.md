@@ -1,7 +1,5 @@
 Hola! me llamo Agustin Di giacinto
 
-Soy un Henry!, egresado del bootcamp con el mismo nombre.
-
 Las tecnologias que manejo actualmente son:
 
 * postgresql node.js express react.js Redux | HTML - CSS - JS
